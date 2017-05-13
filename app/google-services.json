@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290109249898",
+    "firebase_url": "https://chatcross-ec7aa.firebaseio.com",
+    "project_id": "chatcross-ec7aa",
+    "storage_bucket": "chatcross-ec7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290109249898:android:41335449a03b489a",
+        "android_client_info": {
+          "package_name": "chatcross.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290109249898-qiacmgktk8fmk03pkpid33dqj74ukajv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chatcross.com",
+            "certificate_hash": "927874ebef6e6f50879346975831019d7ea151bc"
+          }
+        },
+        {
+          "client_id": "290109249898-le9c612lh2lfd25ep6f5d04deg8lpkvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0QG-8rsMwMfGbC_tEqNbnxlFdUmxBZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290109249898-le9c612lh2lfd25ep6f5d04deg8lpkvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
